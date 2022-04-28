@@ -17,6 +17,14 @@ npm i --save-dev tailwindcss-textshadow
 # and
 npm install tailwind-scrollbar-hide
 ```
+## Instalar ESLint
+
+```bash
+npm install --save-dev eslint eslint-plugin-react
+# and 
+npx eslint --init    // Para gerar o ESLInt Config
+
+```
 
 ## Iniciar projeto
 
