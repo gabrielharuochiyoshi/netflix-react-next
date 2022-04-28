@@ -2,7 +2,9 @@
 
 Projeto iniciado a partir do comando: 
 
+```bash
 npx create-next-app --example with-tailwindcss with-tailwindcss-app
+```
 
 ## Para dependencias do Tailwind CSS (Heroicons, ReactIcons, TextShadow e Scrollbar hide)
 
@@ -18,7 +20,8 @@ npm install tailwind-scrollbar-hide
 
 ## Iniciar projeto
 
+```bash
 npm run dev
-
+```
 
 /* Projeto em andamento */
