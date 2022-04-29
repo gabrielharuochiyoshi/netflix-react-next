@@ -6,7 +6,7 @@ Projeto iniciado a partir do comando:
 npx create-next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
-## Para dependencias do Tailwind CSS (Heroicons, ReactIcons, TextShadow e Scrollbar hide)
+## Para dependencias do Tailwind CSS (Heroicons, ReactIcons, TextShadow, Scrollbar e Scrollbar hide)
 
 ```bash
 npm install @heroicons/react
@@ -16,6 +16,8 @@ npm install react-icons
 npm i --save-dev tailwindcss-textshadow
 # and
 npm install tailwind-scrollbar-hide
+# and
+npm install --save-dev tailwind-scrollbar
 ```
 ## Instalar ESLint
 
