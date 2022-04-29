@@ -19,7 +19,7 @@ npm install tailwind-scrollbar-hide
 # and
 npm install --save-dev tailwind-scrollbar
 ```
-## Instalar ESLint
+## Instalar ESLint e Configurar ESLint
 
 ```bash
 npm install --save-dev eslint eslint-plugin-react
@@ -27,6 +27,7 @@ npm install --save-dev eslint eslint-plugin-react
 npx eslint --init    // Para gerar o ESLInt Config
 
 ```
+[Configuração do ESLint em Next.js](https://devinshoemaker.com/blog/next-js/configure-eslint)
 
 ## Iniciar projeto
 
